@@ -1,0 +1,20 @@
+{
+  "name": "tiktok-bulk-downloader-chrome",
+  "description": "Download all videos from TikTok account at once",
+  "license": "MIT",
+  "version": "0.0.1",
+  "keywords": [
+    "chrome extension",
+    "tiktok",
+    "downloader"
+  ],
+  "author": {
+    "name": "TikTokDer",
+    "email": "tiktoktrendsmanagement@gmail.com",
+    "url": "https://tiktokder.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TikTokDownloader/TikTokBulkDownloaderChromeExtension.git"
+  }
+}
