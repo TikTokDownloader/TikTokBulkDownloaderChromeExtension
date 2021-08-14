@@ -1,5 +1,5 @@
 {
-  "name": "tiktok-bulk-downloader-chrome",
+  "name": "tiktok-bulk-downloader-chrome-ext",
   "description": "Download all videos from TikTok account at once",
   "license": "MIT",
   "version": "0.0.1",
